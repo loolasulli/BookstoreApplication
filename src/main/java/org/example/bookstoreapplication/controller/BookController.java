@@ -29,4 +29,3 @@ public class BookController {
         return bookService.getByMaxPrice(maxPrice);
     }
 }
-gi
